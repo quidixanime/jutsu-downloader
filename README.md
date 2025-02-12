@@ -4,10 +4,10 @@ This script downloads all the episodes of your chosen anime from jut.su.
 
 ## Installation:
 - Install Python3
-- Install modules from requirements.txt: <code>pip install -r requirements.txt</code>
+- install_req.bat
 
 ## Launch:
-<code>python ./app.py</code>
+<code>launch.bat</code>
 
 ## Usage:
 ![image](https://user-images.githubusercontent.com/101156562/204972333-bd2d919b-761b-46e8-a442-b59c73a20fff.png)
